@@ -3,7 +3,7 @@
 Combines public New York Times RSS feeds into one feed, with the goal of
 surfacing only the top items.
 
-Aggregated feed: https://s3-us-west-2.amazonaws.com/rsscombine/engineering-manager-blogs.xml
+Aggregated feed: https://s3-us-west-2.amazonaws.com/rsscombine/new-york-times-rss-top-100.xml
 
 ## Guidelines
 
